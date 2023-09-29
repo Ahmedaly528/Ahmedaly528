@@ -2,7 +2,7 @@
 
 <h1 align="center">👋 Hi, I’m @Ahmedaly528i</h1>
 <h2 align="center"> 👀 I’m interested in Android development</h2>
-<h2> I’m currently in advanced mobile development</h2>
+<h2 align="center"> I’m currently in advanced mobile development</h2>
 <h3 align="center">A passionate android developer from Pakistan </h3>
 <image align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
 
